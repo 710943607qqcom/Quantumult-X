@@ -1,1 +1,20 @@
-# Quantumult-X
+# Quantumult-X 什锦配置
+
+集合了各位大佬的规则·复写·脚本，包括神机规则·野比部分脚本等。
+一份懒人配置，纯粹自用。
+
+
+
+
+
+
+
+
+### 特别感谢（排名不分先后）：
+* [Qure](https://github.com/Koolson/Qure)
+* [Orz-3](https://github.com/Orz-3/mini)
+* [@NobyDa](https://github.com/NobyDa)
+* [@Tartarus2014](https://github.com/Tartarus2014)
+* [@zZPiglet](https://github.com/zZPiglet/Task.git)
+* [@Peng-YM](https://github.com/Peng-YM/QuanX)
+* [@ConnersHua](https://github.com/ConnersHua)
