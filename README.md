@@ -6,7 +6,7 @@
 
 
 ### 使用自定义 GeoIP 文件
-建议在「其他设置」里「GeoLite2」的「来源」填写使用「 https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb 」并开启「自动更新
+建议在「其他设置」里「GeoLite2」的「来源」填写使用「 https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb 」 并开启「自动更新
 
 
 
