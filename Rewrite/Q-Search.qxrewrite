@@ -14,6 +14,9 @@ hostname = duckduckgo.com
 # wk xxx (Wikipedia 中文)
 ^https:\/\/duckduckgo.com\/\?q=wk(\+|%20)([^&]+).+ url 302 https://zh.wikipedia.org/wiki/$2
 
+# wz xxx (无追搜索)
+^https:\/\/duckduckgo.com\/\?q=wz\+([^&]+).+ url 302 https://www.wuzhuiso.com/s?q=$1
+
 # mg xxx (Magi)
 ^https:\/\/duckduckgo.com\/\?q=mg(\+|%20)([^&]+).+ url 302 https://magi.com/search?q=$2
 
